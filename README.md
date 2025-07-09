@@ -1,0 +1,3 @@
+# F1 Stats
+
+![Concept](https://github-production-user-asset-6210df.s3.amazonaws.com/84115956/464143627-ec2f7032-ae62-429b-af95-556cbae8c096.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250709T110029Z&X-Amz-Expires=300&X-Amz-Signature=0aed5d9a85fef3798c405ee673cbe9fcf275ef51aaa9e344b489dcbf523c8c2f&X-Amz-SignedHeaders=host)
